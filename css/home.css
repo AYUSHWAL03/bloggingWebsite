@@ -1,0 +1,21 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-shadow: none;
+}
+body{
+    background-image: url('../assets/bgImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.homeTitle{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.homeTitle .quotes{
+    
+}
